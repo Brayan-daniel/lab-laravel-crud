@@ -12,9 +12,6 @@ Su objetivo principal es comprender el flujo completo de un CRUD en Laravel y ap
 # Objetivos del Laboratorio
 
 Comprender el flujo de un CRUD en Laravel.
-
 Implementar persistencia básica utilizando archivos.
-
 Crear y probar rutas API con cURL y Postman.
-
 Desarrollar un controlador REST y aplicar inyección de dependencias con repositorios.
